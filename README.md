@@ -12,6 +12,7 @@
   <h1>MY Website </h1>
   <p>Great website JB, but I didn't understand what you wrote here. I have replaced this section with some text you can understand. Also I have added my image below</p>
   <p><img src="https://peterhanleynewbucket.s3-ap-southeast-2.amazonaws.com/peter.jpg"></p>
+    <p>Peter enjoying a coffee</p>
   </div>
   <ul id="navigation">
     <li><a href="#">Home</a></li>
