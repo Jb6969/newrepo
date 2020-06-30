@@ -10,7 +10,8 @@
 <body>
   <div id="main-header">
   <h1>MY Website </h1>
-  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus nam neque, voluptatum autem, excepturi minima iste explicabo delectus veritatis magnam illum labore officiis quos ut iure earum, veniam distinctio dignissimos facere. Distinctio nisi, dolor magnam laborum rerum laudantium. Ex saepe dolore sint est vel maiores odit quos modi aspernatur. Libero officiis, nostrum consectetur provident nihil debitis magnam temporibus quos facilis perspiciatis rerum nisi veniam asperiores labore doloribus in accusamus repellendus et dignissimos enim, eligendi a odit molestias error. Minima odio earum animi laudantium saepe ullam labore error ea esse fuga dicta fugiat aspernatur atque ex, cupiditate rem iure pariatur doloremque! Odio eos placeat hic enim facere tenetur amet dicta eum optio reiciendis ipsam earum, quasi asperiores ipsum laborum aliquid sunt illo excepturi cumque dignissimos saepe architecto magni blanditiis. Tempora sequi, facilis beatae minima eos dolores tenetur inventore sit provident id adipisci neque voluptate. Distinctio ipsa velit incidunt delectus quis tempore at aut, magni corporis non placeat magnam mollitia voluptate ab sapiente nostrum officiis nobis tempora, dolorem excepturi. Eligendi veritatis omnis ratione id repellendus doloribus enim aliquid numquam saepe temporibus, quasi rem expedita animi error nobis debitis nisi itaque delectus, ea, sunt pariatur repellat nihil? Accusamus vero voluptatum voluptas enim consequuntur?</p>
+  <p>Great website JB, but I didn't understand what you wrote here. I have replaced this section with some text you can understand. Also I have added my image below</p>
+  <p><img src="https://peterhanleynewbucket.s3-ap-southeast-2.amazonaws.com/peter.jpg"></p>
   </div>
   <ul id="navigation">
     <li><a href="#">Home</a></li>
